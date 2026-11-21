@@ -93,11 +93,11 @@ if isGuaranteedFeatured {
 
 1. Clone 本專案：
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/didi960316-eng/if-else-homework.git
    ```
 2. 使用 Xcode 打開專案：
    ```bash
-   cd "if else作業"
+   cd if-else-homework
    open "if else作業.xcodeproj"
    ```
 3. 在 Xcode 中選擇模擬器（例如 iPhone 15 / 16）或真機，按下 `Cmd + R` 即可執行。
